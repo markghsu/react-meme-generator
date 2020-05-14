@@ -1,3 +1,10 @@
+# React Meme Generator
+
+Created as part of React Basics Scrimba Class.
+
+Final product: ![screenshot](./assets/screenshot.png)
+
+## Create-React-App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
