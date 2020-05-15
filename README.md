@@ -1,8 +1,12 @@
 # React Meme Generator
 
-Created as part of React Basics Scrimba Class.
+Created as part of [React Basics Scrimba Class](https://scrimba.com/course/glearnreact).
 
 Final product: ![screenshot](./assets/screenshot.png)
+
+## Backend API
+Utilizes the [imgflip API](https://api.imgflip.com) to get meme images.
+
 
 ## Create-React-App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
